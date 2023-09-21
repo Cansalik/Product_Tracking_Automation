@@ -1,10 +1,8 @@
-import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:product_tracking_automation/Cubit/Products_Cubit.dart';
-import 'package:product_tracking_automation/Entity/Products.dart';
-import 'package:product_tracking_automation/Repositories/Products_Repositories.dart';
+import 'package:product_tracking_automation/Services/Products_Services.dart';
 
 class Product_Update_Page extends StatefulWidget {
   const Product_Update_Page({Key? key}) : super(key: key);

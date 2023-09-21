@@ -1,5 +1,5 @@
 import 'package:firebase_database/firebase_database.dart';
-import 'package:product_tracking_automation/Entity/Categories.dart';
+import 'package:product_tracking_automation/Models/Categories.dart';
 
 class Categories_Repositories
 {

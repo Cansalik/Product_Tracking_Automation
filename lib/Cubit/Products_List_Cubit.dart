@@ -1,6 +1,6 @@
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:product_tracking_automation/Entity/Products.dart';
+import 'package:product_tracking_automation/Models/Products.dart';
 
 class Products_List_Cubit extends Cubit<List<Products>>
 {

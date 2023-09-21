@@ -1,10 +1,7 @@
-import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:product_tracking_automation/Cubit/Categories_List_Cubit.dart';
-import 'package:product_tracking_automation/Cubit/Products_Cubit.dart';
-import 'package:product_tracking_automation/Entity/Categories.dart';
-import 'package:product_tracking_automation/Entity/Users.dart';
+import 'package:product_tracking_automation/Models/Categories.dart';
 import 'package:product_tracking_automation/Views/Homepage_BottomNavigatorBar.dart';
 import 'package:product_tracking_automation/Views/Product_With_Categories_Page.dart';
 

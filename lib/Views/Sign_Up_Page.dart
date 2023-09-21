@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
@@ -7,7 +6,6 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:product_tracking_automation/Cubit/Users_Cubit.dart';
-import 'package:product_tracking_automation/Repositories/Users_Repositories.dart';
 import 'package:product_tracking_automation/Views/Login_Page.dart';
 
 class Sign_Up_Page extends StatefulWidget {

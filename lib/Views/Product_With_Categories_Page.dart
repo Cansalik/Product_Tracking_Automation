@@ -1,7 +1,7 @@
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
-import 'package:product_tracking_automation/Entity/Categories.dart';
-import 'package:product_tracking_automation/Entity/Products.dart';
+import 'package:product_tracking_automation/Models/Categories.dart';
+import 'package:product_tracking_automation/Models/Products.dart';
 
 class Product_With_Categories_Page extends StatefulWidget {
   Categories categories;

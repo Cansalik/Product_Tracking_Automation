@@ -1,7 +1,7 @@
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:product_tracking_automation/Entity/Products.dart';
-import 'package:product_tracking_automation/Repositories/Products_Repositories.dart';
+import 'package:product_tracking_automation/Models/Products.dart';
+import 'package:product_tracking_automation/Services/Products_Services.dart';
 
 class Products_Cubit extends Cubit<void> {
   Products_Cubit() : super(0);
