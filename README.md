@@ -14,4 +14,9 @@ The main operations you can do with this application:
   b. Add Product to System: You can quickly add products with the barcode scanning feature.
   c. Sell Product: You can put products up for sale with barcode scanning.
   d. Update Product Information: You can update the price and quantity of existing products.
+<br>
+<br>
+<br>
+<br>
 
+![product_tracking_automation](https://github.com/Cansalik/Product_Tracking_Automation/assets/84234525/c7b7e4e9-3aa9-459b-8616-324d3fa1ebc9)
